@@ -1,4 +1,4 @@
-# Flutter Boot Camp 2022
+# Flutter Boot Camp Roadmap
 
 ### Introduction To Flutter & Dart 
 - [Dart or Flutter ? Where to start ](https://docs.flutter.dev/get-started/codelab)
@@ -12,3 +12,4 @@
 - Install android studio 
 - Install command line tools with sdks
 - Install emulator
+
