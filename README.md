@@ -1,25 +1,14 @@
 # Flutter Boot Camp 2022
 
+### Introduction To Flutter & Dart 
+- [Dart or Flutter ? Where to start ](https://docs.flutter.dev/get-started/codelab)
+- [How to watch this playlist](https://docs.flutter.dev/get-started/codelab)
+- [Introduction to Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Prerequisite of installing Flutter](https://docs.flutter.dev/get-started/codelab)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-
-<details><summary>Does not work</summary>
-[hi](https://hello.ca)
-</details>
-
-
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details>
+### Install Flutter On Window 
+- [Install Flutter for windows](https://youtu.be/hNTvw4H5sls)
+- Install Java JDK
+- Install android studio 
+- Install command line tools with sdks
+- Install emulator
