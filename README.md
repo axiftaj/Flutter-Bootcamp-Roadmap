@@ -246,6 +246,5 @@ At the end I will sum up the whole project, what we have learned and how we can 
 - Creating Blog application 
 - Summing up what we have learn 
 
-
-
+<h1/> End of the course <h1/>
 
