@@ -246,5 +246,7 @@ At the end I will sum up the whole project, what we have learned and how we can 
 - Creating Blog application 
 - Summing up what we have learn 
 
+You can watch Flutter firebase Soical Media Application on my channel. 
+
 <h1/> End of the course <h1/>
 
