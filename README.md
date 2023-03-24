@@ -246,6 +246,17 @@ At the end I will sum up the whole project, what we have learned and how we can 
 - Creating Blog application 
 - Summing up what we have learn 
 
+### Flutter Firebase Notifications Chapter 16
+- [Flutter Firebase Notifications Roadmap](https://youtube.com/playlist?list=PLFyjjoCMAPtzvnHnby5Yu9idvwqXI-ujn)
+- [Flutter Firebase Project Setup for android and ios](https://lnkd.in/dfwijFgd)
+- How To Get Firebase Notification Permission
+- What is FCM Token or Device Token
+- Flutter Show notification when app is in Foregrounds, backgroudn or in terminated states
+- Redirect User to specific screen when notifications is tap
+- How to send notification from one device to anohter device
+
+
+
 You can watch Flutter firebase Soical Media Application on my channel. 
 
 <h1/> End of the course <h1/>
