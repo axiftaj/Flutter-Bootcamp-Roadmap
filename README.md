@@ -32,7 +32,7 @@ Let's start Flutter by creating our first project
 
 ### Flutter Chapter 1
 - [Creating our first project](https://youtu.be/CPnrFOxkdQo)
-- Material App, what is material app. Home , Text and centre widget with tree charts explanation
+- Material App, what is material app. Home, Text and centre widget with tree charts explanation
 - What is material design 
 - [Scaffolding the app, material colours and network image widge](https://youtu.be/DSucEz7p8BY)
 - [Assets image](https://youtu.be/gYXD_2eeg98)
@@ -255,6 +255,7 @@ At the end I will sum up the whole project, what we have learned and how we can 
 - Redirect User to specific screen when notifications is tap
 - How to send notification from one device to anohter device
 
+##4 Flutter GetX State Management
 
 
 You can watch Flutter firebase Soical Media Application on my channel. 
